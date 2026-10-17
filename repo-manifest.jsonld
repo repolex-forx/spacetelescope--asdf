@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/spacetelescope/asdf/commit/bb9f3c8deca6b5f747bad5773ea64c79f24af782",
       "git:hexsha": "bb9f3c8deca6b5f747bad5773ea64c79f24af782",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/spacetelescope/asdf/commit/7cf3c8f217a0fb9184acd1ff0e98b4c0e9c577be",
